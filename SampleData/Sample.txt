@@ -1,1 +1,1 @@
-
+This file consists of Sample medicine Data for the Medicine Recommendation System.
