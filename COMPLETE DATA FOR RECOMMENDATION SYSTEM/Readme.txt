@@ -1,3 +1,9 @@
+⚠️ Notes
+Data may contain user-generated text, including typos or informal language.
+Some entries may include medical experiences — use responsibly.
+This dataset is intended for educational and research purposes only.
+
+
 This dataset contains user reviews and feedback on various drugs/medications. 
 It includes demographic details, medical conditions, ratings, and textual descriptions of user experiences.
 
